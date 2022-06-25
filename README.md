@@ -3,15 +3,15 @@
 
 ### Programing Languages and Software Engineering
 Research Projects
-- [LambdaNet](https://github.com/MrVPlusOne/LambdaNet): Probabilistic Type Inference for Javascript using Graph Neural Networks.
-- [Singularity](https://github.com/MrVPlusOne/Singularity): Pattern Fuzzing for Worst-Case Algorithmic Complexity using Program Synthesis.
-- [Escher-Scala](https://github.com/MrVPlusOne/Escher-Scala): Recursive Program Synthesis using input-output examples.
+- [![Star on GitHub](https://img.shields.io/github/stars/MrVPlusOne/LambdaNet) LambdaNet](https://github.com/MrVPlusOne/LambdaNet): Probabilistic Type Inference for Javascript using Graph Neural Networks.
+- [![Star on GitHub](https://img.shields.io/github/stars/MrVPlusOne/Singularity) Singularity](https://github.com/MrVPlusOne/Singularity): Pattern Fuzzing for Worst-Case Algorithmic Complexity using Program Synthesis.
+- [![Star on GitHub](https://img.shields.io/github/stars/MrVPlusOne/Escher-Scala) Escher-Scala](https://github.com/MrVPlusOne/Escher-Scala): Recursive Program Synthesis using input-output examples.
 
 
 Personal Projects
-- [Lazy Lang](https://github.com/MrVPlusOne/LazyLang): A Haskell-style lazy-evaluation language in 500 lines of Scala code, using Monad Transformers.
-- [TensorSafe](https://github.com/MrVPlusOne/TensorSafe): A Scala tensor/matrix library that encodes tensor shapes using type-level programming.
-- [J-- Compiler](https://github.com/MrVPlusOne/J--_in_Scala): A compiler for a subset of Java, written in Scala.
+- [![Star on GitHub](https://img.shields.io/github/stars/MrVPlusOne/LazyLang) Lazy Lang](https://github.com/MrVPlusOne/LazyLang): A Haskell-style lazy-evaluation language in 500 lines of Scala code, using Monad Transformers.
+- [![Star on GitHub](https://img.shields.io/github/stars/MrVPlusOne/TensorSafe) TensorSafe](https://github.com/MrVPlusOne/TensorSafe): A Scala tensor/matrix library that encodes tensor shapes using type-level programming.
+- [![Star on GitHub](https://img.shields.io/github/stars/MrVPlusOne/J--_in_Scala) J-- Compiler](https://github.com/MrVPlusOne/J--_in_Scala): A compiler for a subset of Java, written in Scala.
 
 ### Robotics
 Research Projects
