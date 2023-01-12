@@ -3,6 +3,7 @@
 
 ### Programing Languages and Software Engineering
 ##### Research Projects
+- [TypeT5](https://github.com/MrVPlusOne/TypeT5): Seq2seq Type Inference using Static Analysis and CodeT5. ![Star on GitHub](https://img.shields.io/github/stars/MrVPlusOne/TypeT5?style=social)
 - [LambdaNet](https://github.com/MrVPlusOne/LambdaNet): Probabilistic Type Inference for Javascript using Graph Neural Networks. ![Star on GitHub](https://img.shields.io/github/stars/MrVPlusOne/LambdaNet?style=social)
 - [Singularity](https://github.com/MrVPlusOne/Singularity): Pattern Fuzzing for Worst-Case Algorithmic Complexity using Program Synthesis. ![Star on GitHub](https://img.shields.io/github/stars/MrVPlusOne/Singularity?style=social)
 - [Escher-Scala](https://github.com/MrVPlusOne/Escher-Scala): Recursive Program Synthesis using input-output examples. ![Star on GitHub](https://img.shields.io/github/stars/MrVPlusOne/Escher-Scala?style=social)
