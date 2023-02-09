@@ -3,7 +3,7 @@
 
 ### Programing Languages and Software Engineering
 ##### Research Projects
-- [Coeditor (VSCode extension)](https://github.com/MrVPlusOne/vscode-coeditor): AI-powered code editing assistant. It's like Copilot but for suggesting where and how to make code changes.
+- [Coeditor](https://github.com/MrVPlusOne/vscode-coeditor): AI-powered code editing assistant (VSCode Extension). ![Star on GitHub](https://img.shields.io/github/stars/MrVPlusOne/vscode-coeditor?style=social)
 - [TypeT5](https://github.com/utopia-group/TypeT5): Seq2seq Type Inference using Static Analysis and CodeT5. ![Star on GitHub](https://img.shields.io/github/stars/utopia-group/TypeT5?style=social)
 - [LambdaNet](https://github.com/MrVPlusOne/LambdaNet): Probabilistic Type Inference for Javascript using Graph Neural Networks. ![Star on GitHub](https://img.shields.io/github/stars/MrVPlusOne/LambdaNet?style=social)
 - [Singularity](https://github.com/MrVPlusOne/Singularity): Pattern Fuzzing for Worst-Case Algorithmic Complexity using Program Synthesis. ![Star on GitHub](https://img.shields.io/github/stars/MrVPlusOne/Singularity?style=social)
